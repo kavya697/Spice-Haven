@@ -1,0 +1,6 @@
+{
+  "name": "Spice Haven",
+  "description": "Modern Indian fine dining & artisanal spice kitchen featuring wood-fired tandoor specialties, slow-simmered curries, online ordering, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
